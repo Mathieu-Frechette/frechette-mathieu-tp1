@@ -7,7 +7,8 @@ Un petit jeu 2D dans un univers fantastique où un apprenti mage peut se déplac
 - Flèches gauche/droite : déplacer le mage  
 - Flèche haut : sauter  
 - A : lancer un sort de feu  
-- S : lancer un sort de glace  
+- w : lancer un sort de glace  
+- s : lancer un sort de soin
 - D : lancer un sort d’électricité  
 
 ## 🖼️ Médias visuels  
