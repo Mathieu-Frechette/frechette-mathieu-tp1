@@ -377,33 +377,38 @@ texture_filter = 1
 
 [node name="Castle" type="Sprite2D" parent="CanvasGroup"]
 texture_filter = 1
-position = Vector2(520, 176)
+position = Vector2(571.436, 179)
 scale = Vector2(1.5, 1.5)
 texture = ExtResource("1_wtcfe")
 
 [node name="House1" type="Sprite2D" parent="CanvasGroup"]
 texture_filter = 1
-position = Vector2(232, 280)
+position = Vector2(283.436, 283)
 rotation = -0.00303393
 scale = Vector2(1.5, 1.5)
 texture = ExtResource("2_0e48y")
 
 [node name="House2" type="Sprite2D" parent="CanvasGroup"]
 texture_filter = 1
-position = Vector2(808, 264)
+position = Vector2(863.436, 267)
 scale = Vector2(1.5, 1.5)
 texture = ExtResource("2_0e48y")
 
 [node name="House3" type="Sprite2D" parent="CanvasGroup"]
 texture_filter = 1
-position = Vector2(64, 360)
+position = Vector2(109, 357)
 scale = Vector2(1.5, 1.5)
 texture = ExtResource("3_rj586")
 flip_h = true
 
+[node name="House4" type="Sprite2D" parent="CanvasGroup"]
+position = Vector2(1032, 343)
+scale = Vector2(1.5, 1.5)
+texture = ExtResource("3_rj586")
+
 [node name="Mage" type="AnimatedSprite2D" parent="."]
 texture_filter = 1
-position = Vector2(488, 392)
+position = Vector2(567, 389)
 sprite_frames = SubResource("SpriteFrames_whnp6")
 animation = &"Attack2"
 frame_progress = 0.127853
