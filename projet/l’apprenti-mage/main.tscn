@@ -14,7 +14,7 @@
 [ext_resource type="Texture2D" uid="uid://bhjt3pfaos27e" path="res://assets/Wizard Pack/Run.png" id="10_82xsv"]
 [ext_resource type="Texture2D" uid="uid://c358ngbkac5yg" path="res://assets/Wizard Pack/Idle.png" id="11_getpj"]
 [ext_resource type="Script" uid="uid://cdx3hv6xndogr" path="res://mage.gd" id="14_w48qg"]
-[ext_resource type="AudioStream" uid="uid://4o42go0lsvjh" path="res://assets/music/22 - The Final of The Fantasy.wav" id="15_vivmo"]
+[ext_resource type="AudioStream" uid="uid://g3u5usjkeuop" path="res://assets/music/22 - The Final of The Fantasy.ogg" id="15_vivmo"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_d2bti"]
 atlas = ExtResource("4_w48qg")

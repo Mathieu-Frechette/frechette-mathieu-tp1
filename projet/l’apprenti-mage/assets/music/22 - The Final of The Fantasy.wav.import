@@ -2,7 +2,7 @@
 
 importer="wav"
 type="AudioStreamWAV"
-uid="uid://4o42go0lsvjh"
+uid="uid://b6jgmvl0b0pa7"
 path="res://.godot/imported/22 - The Final of The Fantasy.wav-d2f671eed9d4c2342c6b6b38ce675949.sample"
 
 [deps]
@@ -18,7 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=false
-edit/loop_mode=2
+edit/loop_mode=0
 edit/loop_begin=0
 edit/loop_end=-1
 compress/mode=2
